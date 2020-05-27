@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "507564735049",
+    "firebase_url": "https://lojagerente31.firebaseio.com",
+    "project_id": "lojagerente31",
+    "storage_bucket": "lojagerente31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507564735049:android:ee103f27a040d612b81d98",
+        "android_client_info": {
+          "package_name": "br.com.godtech.loja_gerente"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507564735049-ucspn78u84599tn7fpfabun286mmqono.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9HsaXZc9E-Hq95mibj4WPSsqOo1FI4yY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507564735049-ucspn78u84599tn7fpfabun286mmqono.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
