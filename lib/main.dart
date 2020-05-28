@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:loja_gerente/screens/home_screen.dart';
 import 'package:loja_gerente/screens/login_screen.dart';
 
 void main() {
@@ -15,7 +16,7 @@ class MyApp extends StatelessWidget {
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
       debugShowCheckedModeBanner: false,
-      home: LoginScreen(),
+      home: HomeScreen(),
     );
   }
 }
